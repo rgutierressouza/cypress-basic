@@ -1,8 +1,4 @@
-/// <reference types="Cypress" />
-
-
-// Suite de teste
-describe('Central de Atendimento ao Cliente TAT', () => {
+describe('template spec', () => {
   beforeEach(() => cy.visit('./src/index.html'))
   const project = {
     firstName: 'Roberto',
