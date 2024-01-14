@@ -8,6 +8,10 @@
     "test:headless": "cypress run --config viewWidth=410 viewPortHeight=860",
     "test": "cypress run"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgutierressouza/cypress-basic"
+  },
   "author": "Roberto",
   "license": "ISC",
   "keywords": [],
